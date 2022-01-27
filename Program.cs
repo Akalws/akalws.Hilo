@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using AKALWS.HILO.game;
+namespace AKALWS.HILO
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Player player = new Player();
+            player.StartGame();
+
+
+        }
+    }
+    
+}
+
+

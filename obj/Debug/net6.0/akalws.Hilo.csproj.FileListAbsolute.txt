@@ -1,0 +1,15 @@
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\bin\Debug\net6.0\akalws.Hilo.exe
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\bin\Debug\net6.0\akalws.Hilo.deps.json
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\bin\Debug\net6.0\akalws.Hilo.runtimeconfig.json
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\bin\Debug\net6.0\akalws.Hilo.dll
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\bin\Debug\net6.0\ref\akalws.Hilo.dll
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\bin\Debug\net6.0\akalws.Hilo.pdb
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\obj\Debug\net6.0\akalws.Hilo.csproj.AssemblyReference.cache
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\obj\Debug\net6.0\akalws.Hilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\obj\Debug\net6.0\akalws.Hilo.AssemblyInfoInputs.cache
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\obj\Debug\net6.0\akalws.Hilo.AssemblyInfo.cs
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\obj\Debug\net6.0\akalws.Hilo.csproj.CoreCompileInputs.cache
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\obj\Debug\net6.0\akalws.Hilo.dll
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\obj\Debug\net6.0\ref\akalws.Hilo.dll
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\obj\Debug\net6.0\akalws.Hilo.pdb
+C:\Users\akalw\CSE 210\Hilo Game\akalws.Hilo\obj\Debug\net6.0\akalws.Hilo.genruntimeconfig.cache
