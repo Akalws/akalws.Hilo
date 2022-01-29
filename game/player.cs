@@ -33,17 +33,14 @@ namespace AKALWS.HILO.game
                 answer = Console.ReadLine();
                 endcard = deck.GetNumber();
                 Console.WriteLine($"The next card was :{endcard}");
-                if (answer == "H" || answer == "h" && endcard >= startcard)
+                if ((answer == "H" || answer == "h") && endcard >= startcard)
                 {
-                    //if (endcard >= startcard)
-
                     Points += 100;
 
                 }
 
-                else if (answer == "L" || answer == "l" && endcard <= startcard)
+                else if ((answer == "L" || answer == "l") && endcard <= startcard)
                 {
-                    //if (endcard <= startcard)
 
                     Points += 100;
 
